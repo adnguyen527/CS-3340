@@ -6,3 +6,5 @@ Start the program.
 Build using MARS.
 Enter yes or no when prompt.
 Repeat this until your number is guessed by the program.
+
+THIS WAS A GROUP PROJECT WITH TWO OTHER PEOPLE
